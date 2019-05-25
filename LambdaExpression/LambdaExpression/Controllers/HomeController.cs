@@ -16,7 +16,7 @@ namespace LambdaExpression.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Hi Git";
 
             return View();
         }
